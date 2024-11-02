@@ -1,6 +1,6 @@
 <目次>
 Sample001：初めてのJava、Hello World!をコンソールに出力する
-Sample002：
+Sample002：Javaでの演算処理
 Sample003：
 Sample004：
 Sample005：
