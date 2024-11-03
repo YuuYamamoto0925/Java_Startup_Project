@@ -1,7 +1,6 @@
 package Sample002;
 public class Exec002 {
-    
-    //Javaの演算処理
+
     public static void main(String[] args) {
 
         int a = 10;
@@ -11,6 +10,6 @@ public class Exec002 {
         System.out.println("引き算：" + a + "-" + b + "=" + (a-b));
         System.out.println("かけ算：" + a + "×" + b + "=" + (a*b));
         System.out.println("割り算：" + a + "÷" + b + "=" + (a/b));
-        
+
     }
 }
