@@ -22,7 +22,9 @@
   (例)
   git checkout -- E:\15プログラム学習\VSCode\Java\Java_Startup_Project\src\Sample001
 
-
+<リモートリポジトリ変更を取得>
+・リモートリポジトリをpull
+  git pull origin master
 
 
 
