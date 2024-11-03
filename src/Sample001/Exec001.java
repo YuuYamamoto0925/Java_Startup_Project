@@ -1,8 +1,9 @@
 package Sample001;
 public class Exec001 {
+    
     //初めてのJava
     //Hello World!をコンソールに出力する
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
