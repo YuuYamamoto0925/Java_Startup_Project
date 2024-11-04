@@ -3,7 +3,7 @@ package Sample003;
 public class Exec003_01 {
 
     //Javaの条件分岐
-    //if分の書き方
+    //if文の書き方
     public static void main(String[] args) {
 
         int a = 10;

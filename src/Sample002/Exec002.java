@@ -1,6 +1,7 @@
 package Sample002;
 public class Exec002 {
 
+    //Javaの四則演算
     public static void main(String[] args) {
 
         int a = 10;
