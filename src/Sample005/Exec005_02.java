@@ -20,6 +20,7 @@ public class Exec005_02 {
         System.out.println("・配列a[0][1]の要素は「" + a[0][1] + "」です");
         System.out.println("・配列b[1][0]の要素は「" + b[1][0] + "」です");
         System.out.println("・配列b[1][1]の要素は「" + b[1][1] + "」です");
+        System.out.println("");
 
         System.out.println("【多次元配列の中身をfor文を使用し、すべての要素を確認する】");
         for(int i=0;i<a.length;i++){
@@ -27,6 +28,7 @@ public class Exec005_02 {
                 System.out.println("・配列a[" + i + "][" + j + "]の要素は「" + a[i][j] + "」です");
             }
         }
+        System.out.println("");
 
         System.out.println("【多次元配列の中身を拡張for文を使用し、すべての要素を確認する】");
         int rowIndex = 0;   //配列の行数
@@ -39,6 +41,7 @@ public class Exec005_02 {
             }
             rowIndex++;
         }
+        System.out.println("");
 
     }
     

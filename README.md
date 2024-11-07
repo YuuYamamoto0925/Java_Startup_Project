@@ -25,4 +25,4 @@
 * 参考書③：[徹底攻略Java SE Bronze問題集[1Z0-818]対応](https://book.impress.co.jp/books/1119101075)
 
 ## [最後に]
-Javaの構文確認やBronze資格対策などでご利用ください。
+Javaの構文確認やBronze資格対策などにご利用ください。
