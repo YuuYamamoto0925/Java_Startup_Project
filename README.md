@@ -2,22 +2,30 @@
 ## [はじめに]
 
 サンプルコードについては、基本エラーが発生しないものを用意してます。
-
-動作確認のためにエラーを出力したい場合などは、ご利用者にてコードを改変し動きをご確認ください。
-
--★山本作成中(2024_1027)★-
+動作確認のためにエラー出力したい場合などは、ご利用者にてコードを改変しご確認ください。
 
 ## [参考サイト]
 * 試験公式サイト：[Java SE Bronze(1Z0-818)](https://education.oracle.com/ja/java-se-bronze-available-only-in-japan/pexam_1Z0-818)
 
-## [アジェンダ]
+## [サンプルコード]
 * [初めてのJava、Hello World!をコンソールに出力する](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample001)
 * [Javaでの演算処理](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample002)
 * [条件分岐](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample003)
 * [繰り返し処理](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample004)
 * [配列変数](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample005)
 * [クラスとオブジェクト](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample006)
-* [アクセス指定子](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample007)
+* [static 変数および static メソッド](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample007)
+* [継承とポリモフィズム](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample008)
+
+## [試験範囲サンプルコード]
+-★山本作成中(2024_1109)★-
+* [データの宣言と使用]
+* [演算子と分岐文]
+* [ループ文]
+* [オブジェクト指向の概念]
+* [クラスの定義とオブジェクトの使用]
+* [継承とポリモフィズム]
+-★山本作成中(2024_1109)★-
 
 ## [学習参考書]
 * 参考書①：[オラクル認定資格教科書 Javaプログラマ Bronze SE（試験番号1Z0-818）](https://www.shoeisha.co.jp/book/detail/9784798167831)
