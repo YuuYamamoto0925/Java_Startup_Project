@@ -1,7 +1,7 @@
 package Sample006;
 
 
-public class Exec006_01 {
+public class Exec006 {
 
     //Javaのクラスとオブジェクト
     //Webサイト情報を格納するWebsiteクラスを生成する

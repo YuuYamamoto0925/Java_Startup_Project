@@ -1,7 +1,7 @@
 package Sample007;
 
 
-public class Exec007_01 {
+public class Exec007 {
 
     //Javaのstatic 変数および static メソッド
     //Countクラスを生成し、static変数とインスタンス変数の値を確認する

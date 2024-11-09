@@ -1,6 +1,6 @@
 package Sample008;
 
-public class Exec008_01 {
+public class Exec008 {
 
     //Javaの継承とポリモフィズム
     //親クラスと子クラス(継承)
