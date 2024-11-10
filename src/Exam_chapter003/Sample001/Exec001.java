@@ -1,15 +1,15 @@
-package Sample004;
-
-public class Exec004_04 {
-
-    //Javaの繰り返し処理
-    //while文の書き方
-    public static void main(String[] args){
+package Exam_chapter003.Sample001;
+public class Exec001 {
+    
+    //ループ文
+    //while文の使用
+    public static void main(String[] args) {
 
         int count = 0;
         int a = 0;
 
         System.out.println("【繰り返し処理を開始します】");
+        //while文
         while(a<5){
             System.out.println("・aは「" + a + "」です");
             a++;
@@ -18,6 +18,6 @@ public class Exec004_04 {
 
         System.out.println("(while文処理は「" + count + "」回処理されました)");
         System.out.println("");
+        
     }
-    
 }

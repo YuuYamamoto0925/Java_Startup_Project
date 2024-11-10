@@ -1,9 +1,7 @@
 # Java SE Bronze 学習向け(サンプルコード)
 ## [はじめに]
 
-サンプルコードについては、基本エラーが発生しないものを用意してます。
-
-動作確認のためにエラー出力したい場合などは、ご利用者にてコードを改変しご確認ください。
+Javaの構文確認やBronze資格対策などにご利用ください。
 
 ## [参考サイト]
 * 試験公式サイト：[Java SE Bronze(1Z0-818)](https://education.oracle.com/ja/java-se-bronze-available-only-in-japan/pexam_1Z0-818)
@@ -20,9 +18,9 @@
 
 ## [試験範囲サンプルコード]
 * [データの宣言と使用](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter001)
-* [演算子と分岐文]
-* [ループ文]
-* [オブジェクト指向の概念]
+* [演算子と分岐文](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter002)
+* [ループ文](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter003)
+* [オブジェクト指向の概念](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter004)
 * [クラスの定義とオブジェクトの使用]
 * [継承とポリモフィズム]
 
@@ -34,4 +32,6 @@
 * 参考書③：[徹底攻略Java SE Bronze問題集[1Z0-818]対応](https://book.impress.co.jp/books/1119101075)
 
 ## [最後に]
-Javaの構文確認やBronze資格対策などにご利用ください。
+サンプルコードについては、基本エラーが発生しないものを用意してます。
+
+動作確認のためにエラー出力したい場合などは、ご利用者にてコードを改変しご確認ください。

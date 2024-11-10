@@ -1,4 +1,4 @@
-<サンプルアジェンダ>
+<アジェンダ>
 ・Sample001：初めてのJava、Hello World!をコンソールに出力する
 ・Sample002：Javaでの演算処理
 ・Sample003：条件分岐
@@ -15,31 +15,31 @@
 　∟Sample002：変数や定数の宣言と初期化、値の有効範囲
 　∟Sample003：配列（一次元配列）の宣言と作成、使用
 
-・Exam_chapter002：演算子と分岐文⇒着手中★
+・Exam_chapter002：演算子と分岐文⇒OK★
 　∟Sample001：各種演算子の使用
 　∟Sample002：演算子の優先順位
 　∟Sample003：if, if/else文の使用
 　∟Sample004：switch文の使用
 
-・Exam_chapter003：ループ文
+・Exam_chapter003：ループ文⇒OK★
 　∟Sample001：while文の使用
 　∟Sample002：for文および拡張for文の使用
 　∟Sample003：do-while文の作成と使用
 　∟Sample004：ループのネスティング
 
-・Exam_chapter004：オブジェクト指向の概念
+・Exam_chapter004：オブジェクト指向の概念⇒OK★
 　∟Sample001：具象クラス、抽象クラス、インタフェース
 　∟Sample002：データ隠蔽とカプセル化
 　∟Sample003：ポリモフィズム
 
-・Exam_chapter005：クラスの定義とオブジェクトの使用
+・Exam_chapter005：クラスの定義とオブジェクトの使用⇒OK★
 　∟Sample001：クラスの定義とオブジェクトの生成、使用
 　∟Sample002：メソッドのオーバーロード
 　∟Sample003：コンストラクタの定義
 　∟Sample004：アクセス修飾子 (public, private) の適用とカプセル化
 　∟Sample005：static 変数および static メソッド
 
-・Exam_chapter006：継承とポリモフィズム
+・Exam_chapter006：継承とポリモフィズム⇒着手中★
 　∟Sample001：サブクラスの定義と使用
 　∟Sample002：メソッドのオーバーライド
 　∟Sample003：抽象クラスやインタフェースの定義と実装
