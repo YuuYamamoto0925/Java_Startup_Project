@@ -39,7 +39,7 @@
 　∟Sample004：アクセス修飾子 (public, private) の適用とカプセル化
 　∟Sample005：static 変数および static メソッド
 
-・Exam_chapter006：継承とポリモフィズム⇒着手中★
+・Exam_chapter006：継承とポリモフィズム⇒OK★
 　∟Sample001：サブクラスの定義と使用
 　∟Sample002：メソッドのオーバーライド
 　∟Sample003：抽象クラスやインタフェースの定義と実装

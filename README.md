@@ -3,9 +3,6 @@
 
 Javaの構文確認やBronze資格対策などにご利用ください。
 
-## [参考サイト]
-* 試験公式サイト：[Java SE Bronze(1Z0-818)](https://education.oracle.com/ja/java-se-bronze-available-only-in-japan/pexam_1Z0-818)
-
 ## [サンプルコード]
 * [初めてのJava、Hello World!をコンソールに出力する](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample001)
 * [Javaでの演算処理](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Sample002)
@@ -21,10 +18,14 @@ Javaの構文確認やBronze資格対策などにご利用ください。
 * [演算子と分岐文](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter002)
 * [ループ文](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter003)
 * [オブジェクト指向の概念](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter004)
-* [クラスの定義とオブジェクトの使用]
-* [継承とポリモフィズム]
+* [クラスの定義とオブジェクトの使用](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter005)
+* [継承とポリモフィズム](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter006)
 
--★山本作成中(2024_1109)★-
+
+
+
+## [試験公式サイト]
+* Java SE Bronze公式サイト：[Java SE Bronze(1Z0-818)](https://education.oracle.com/ja/java-se-bronze-available-only-in-japan/pexam_1Z0-818)
 
 ## [学習参考書]
 * 参考書①：[オラクル認定資格教科書 Javaプログラマ Bronze SE（試験番号1Z0-818）](https://www.shoeisha.co.jp/book/detail/9784798167831)
@@ -34,4 +35,4 @@ Javaの構文確認やBronze資格対策などにご利用ください。
 ## [最後に]
 サンプルコードについては、基本エラーが発生しないものを用意してます。
 
-動作確認のためにエラー出力したい場合などは、ご利用者にてコードを改変しご確認ください。
+動作確認のためにエラー出力したい場合などは、ご利用者にてコード改変いただきご確認ください。

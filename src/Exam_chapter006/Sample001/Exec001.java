@@ -6,7 +6,11 @@ public class Exec001 {
 
     public static void main(String[] args) {
 
+        Cat animal = new Cat();
 
-
+        System.out.println("【出力結果】");
+        animal.eat();   //親クラスのメソッドを使用
+        animal.bark();  //子クラスのメソッドを使用
+        
     }
 }

@@ -6,7 +6,11 @@ public class Exec003 {
 
     public static void main(String[] args) {
 
+        Cat cat = new Cat();
 
+        System.out.println("【出力結果】");
+        cat.bark();
+        cat.action();
 
     }
 }
