@@ -21,9 +21,6 @@ Javaの構文確認やBronze資格対策などにご利用ください。
 * [クラスの定義とオブジェクトの使用](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter005)
 * [継承とポリモフィズム](https://github.com/YuuYamamoto0925/Java_Startup_Project/tree/master/src/Exam_chapter006)
 
-
-
-
 ## [試験公式サイト]
 * Java SE Bronze公式サイト：[Java SE Bronze(1Z0-818)](https://education.oracle.com/ja/java-se-bronze-available-only-in-japan/pexam_1Z0-818)
 
